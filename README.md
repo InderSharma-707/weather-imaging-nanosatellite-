@@ -27,3 +27,30 @@ The camera is mounted at the bottom of the cubesat for capturing live footage of
 This footage along with the sensor data is transmitted by the controller through a 2.4Ghz RF transmitter module with a high gain antenna for max distance transmission. 
 The sensor data is also displayed on an LCD Display for reference.The transmitted data is now received by a receiving station on the ground. 
 The ground station circuit consists of an LCD display and footage display. The 2.4Ghz receiver is used to receive the signals from cubesat and display all the data for further processing.
+
+
+Components : 
+
+1.Stm32 Controller
+2.Battery
+3.Solar Panels
+4.Camera Module
+5.Magnetometer
+6.Infrared Sensor
+7.Temperature Sensor
+8.LCD Display
+9.RF transmitter
+10.RF receiver
+11.Buzzer
+12.LED’s
+13.PCB Board
+14.Resistors
+15.Capacitors
+16.Transistors
+17.Cables and Connectors
+18.Cubesat Frame
+19.Nuts and Bolts
+
+Block Diagram : 
+
+![image](https://github.com/InderSharma-707/weather-imaging-nanosatellite-/assets/123321936/fc31d155-a7dc-4a88-b960-d5e05cd4e0ea)
